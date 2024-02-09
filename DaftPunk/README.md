@@ -1,6 +1,6 @@
 Generated: 02/09/2024 08:10:24 PM
 
-Created in After Effects 2024 (24.1.0 Build 78) with plugins s_glow  
+Created in After Effects 2024 (24.1.0 Build 78)
 Project Name: DaftPunk.aep  
 Collected Source Files: All  
 Collected Compositions: DaftPunk  
